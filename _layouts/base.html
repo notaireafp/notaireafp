@@ -1,0 +1,68 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta property="og:image" content="http://afpnotaire.com/img/opengraph.png" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<title>{% if page.title %}{{ page.title }} - {% endif %}Services juridiques AFP notaire inc.</title>
+{% if page.metadescription %}<meta name="description" content="{{ page.metadescription }}">{% endif %}
+<link href='http://fonts.googleapis.com/css?family=Rosarivo|Oxygen:400,300,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="/css/main.css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<link rel="shortcut icon" href="/favicon.png">
+
+</head>
+
+<body>
+
+<div class="header">
+
+<div>
+<h2>Heures d'ouverture</h2>
+<p>
+Lundi au vendredi de 8:30 à 16:30<br>
+Possibilité de rendez-vous en soirée<br>
+5100 rue des Tournelles, Bureau 238<br>
+Québec (Québec), G2J 1E4
+</p>
+</div>
+
+<div>
+<a href="/"><img src="/img/logo.png"></a>
+</div>
+
+<div>
+<h2>Contact</h2>
+<p>
+Me Andy-Fay Provencher<br>
+Téléphone: 581-999-3111<br>
+Télécopieur: 418-914-9739<br>
+Courriel: <a href="mailto:afprovencher@notarius.net">afprovencher@notarius.net</a>
+</p>
+</div>
+
+</div>
+
+<div id="menu_placeholder" class="menu_placeholder"><div id="menu_background" class="menu_background">
+<ul id="menu" class="menu">
+  <li><a href="#introduction">Introduction</a></li>
+  <li><a href="#notaire">Notaire</a></li>
+  <li><a href="#services">Services</a></li>
+  <li><a href="#contact">Contact</a></li>
+</ul>
+</div></div>
+
+{{ content }}
+
+<script>
+updateToc();
+fallbackSVG();
+editableOnClick();
+</script>
+
+</body>
+
+</html>

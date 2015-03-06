@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="116"
+   id="svg3774"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3776" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.962027"
+     inkscape:cx="-19.592257"
+     inkscape:cy="-33.500386"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1615"
+     inkscape:window-height="1026"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3779">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,100)">
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#66b729;stroke-width:1.10539186;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3782-9"
+       sodipodi:cx="8.9423265"
+       sodipodi:cy="7.1477723"
+       sodipodi:rx="7.1853957"
+       sodipodi:ry="7.1853957"
+       d="m 16.127722,7.1477723 c 0,3.9683847 -3.217011,7.1853957 -7.1853955,7.1853957 -3.9683844,0 -7.1853957,-3.217011 -7.1853957,-7.1853957 0,-3.9683845 3.2170113,-7.18539571 7.1853957,-7.18539571 3.9683845,0 7.1853955,3.21701121 7.1853955,7.18539571 z"
+       transform="matrix(0.90465658,0,0,0.90465658,-0.08973451,1.5337208)" />
+  </g>
+</svg>
