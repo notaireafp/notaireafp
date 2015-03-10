@@ -347,7 +347,9 @@ a:active img{
 	}
 
 	.content{
-		margin: 50px 10px 0 10px;
+		margin: 50px auto 0 auto;
+		padding: 0 10px;
+		max-width: 400px;
 	}
 	.content p{
 		text-align: left;
@@ -379,7 +381,7 @@ a:active img{
 		margin: 0 auto 5px auto;
 	}
 	.services > li > ul{
-		max-width: 380px;
+		max-width: 400px;
 		margin: 1em auto 0 auto;
 	}
 	.services > li > ul > li{
