@@ -64,6 +64,7 @@ a:active img{
 	text-align: center;
 	margin: 25px auto;
 	background-color: #fff;
+	padding: 5px 0;
 }
 .header div{
 	display: inline-block;
@@ -88,6 +89,10 @@ a:active img{
 .header div:first-child h2,
 .header div:first-child p{
 	text-align: right;
+}
+.header div:first-child + div a{
+	position: relative;
+	top: 4px;
 }
 .header div:first-child + div + div h2,
 .header div:first-child + div + div p{
@@ -315,6 +320,7 @@ a:active img{
 
 	.header{
 		margin: 10px 0;
+		padding: 0;
 	}
 	.header div:first-child,
 	.header div:first-child + div + div{
