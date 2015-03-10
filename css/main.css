@@ -254,6 +254,8 @@ a:active img{
 	text-align: center;
 }
 .contact p{
+	font-family: 'Oxygen', sans-serif;
+	font-weight: 300;
 	line-height: 1.5em;
 }
 .contact div{
@@ -405,7 +407,7 @@ a:active img{
 	.flexible-container iframe,   
 	.flexible-container object,  
 	.flexible-container embed {
-		height: 800px;
+		height: 900px;
 	}
 
 }
